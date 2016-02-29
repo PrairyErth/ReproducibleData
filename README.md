@@ -1,2 +1,2 @@
 # ReproducibleData
-Repository of assignments Reproducible Data course
+Repository for the Final Assignment of Reproducible Data course
